@@ -10,7 +10,7 @@ A simple React-based music upload form that stores music files, thumbnails, titl
 1. **Clone the repo**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/lerapela/Simple_Music_Upload_Form.git
    ```
 
 2. **Install Backend Dependencies**:
